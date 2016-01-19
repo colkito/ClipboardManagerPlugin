@@ -1,4 +1,3 @@
-[![Beerpay](http://test.beerpay.io/colkito/ClipboardManagerPlugin/badge.svg?style=flat-square)](http://test.beerpay.io/colkito/ClipboardManagerPlugin)
 # ClipboardManager plugin for Phonegap #
 By Omer Saatcioglu
 Enhanced by Guillaume Charhon
